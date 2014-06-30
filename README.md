@@ -2,12 +2,15 @@
 
 **A simple modal overlay written in JavaScript for modern browsers. The main goal is to keep it small, clean and without third-party library dependencies.**
 
+<<<<<<< HEAD
 **Demos:**
 
 * [Minimalistic](http://goo.gl/cVLIKu "Open the minimalistic demo")
 * [Boostraped](http://goo.gl/T3VmSc "Open the boostraped demo")
 * [Video](http://goo.gl/p9Js4q "Open the video demo")
 
+=======
+>>>>>>> origin/master
 Features
 --------
 
@@ -21,12 +24,16 @@ Features
 Browser Support
 ---------------
 
+<<<<<<< HEAD
 IE10+, Chrome, Firefox, Safari, Opera. Has also been tested on Safari (iOS 7.1), IE10 (Windows Phone 8), Chrome 35 (Android 4.4.4).
 
 Known Issues
 ------------
 
 * Background scrolls on some mobile devices.
+=======
+IE10+, Chrome, Firefox, Safari, Opera
+>>>>>>> origin/master
 
 License
 -------
