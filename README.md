@@ -24,11 +24,6 @@ Browser Support
 
 IE10+, Chrome, Firefox, Safari, Opera. Has also been tested on Safari (iOS 7.1), IE10 (Windows Phone 8), Chrome 35 (Android 4.4.4).
 
-Known Issues
-------------
-
-* Background scrolls on some mobile devices.
-
 License
 -------
 
